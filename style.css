@@ -4,44 +4,4 @@
 }
 body{
     background-color: darkolivegreen;
-
-}
-.nav-logo {
-  height: 70px;
-  width: 70px;
-}
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 80%;
-  margin: auto;
-}
-.navbar ul {
-  display: flex;
-}
-.navbar ul li {
-  list-style: none;
-  border-radius: 5px;
-}
-
-.navbar ul li:hover {
-  background-color: burlywood;
-}
-.navbar ul li a {
-  color: burlywood;
-  text-decoration: none;
-  font-size: 18px;
-  margin: 8px;
-  padding: 8px;
-}
-.navbar ul li a:hover {
- color: darkolivegreen;
-}
-.hudai {
-  background-color: yellowgreen;
-}
-
-.hidden{
-  display: none;
 }
